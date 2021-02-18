@@ -1,0 +1,5 @@
+23:34:22 INFO  - Start test test
+23:34:24 INFO  - Start find --->By.id: com.h6ah4i.android.example.advrecyclerview:id/container
+23:34:25 INFO  - By.id: com.h6ah4i.android.example.advrecyclerview:id/container<--- Found
+23:34:27 INFO  - Stop test test
+************************************************

@@ -1,0 +1,6 @@
+00:46:39 INFO  - Start test testHorizontalSwipe
+00:46:42 INFO  - Start find --->By.id: com.h6ah4i.android.example.advrecyclerview:id/container
+00:46:43 ERROR - java.lang.reflect.UndeclaredThrowableException
+00:46:44 ERROR - src/test/screenshots/screen-1613602003623.png
+00:46:44 INFO  - Stop test testHorizontalSwipe
+************************************************

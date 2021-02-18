@@ -1,0 +1,12 @@
+00:45:04 INFO  - Start test testHorizontalSwipe
+00:45:15 ERROR - org.openqa.selenium.NoSuchElementException: An element could not be located on the page using the given search parameters.
+For documentation on this error, please visit: https://www.seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'MBP-Taya.lan', ip: 'fe80:0:0:0:1429:6897:bdd0:8539%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.16', java.version: '1.8.0_151'
+Driver info: io.appium.java_client.android.AndroidDriver
+Capabilities {app: /Users/tayahatum/QAAppium/a..., appPackage: com.h6ah4i.android.example...., automationName: Appium, databaseEnabled: false, desired: {app: /Users/tayahatum/QAAppium/a..., appPackage: com.h6ah4i.android.example...., automationName: Appium, deviceName: MyNex, platformName: android, platformVersion: 8.0}, deviceApiLevel: 26, deviceManufacturer: Google, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 480, deviceScreenSize: 1080x1920, deviceUDID: emulator-5554, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 3, platform: LINUX, platformName: Android, platformVersion: 8.0.0, statBarHeight: 72, takesScreenshot: true, viewportRect: {height: 1704, left: 0, top: 72, width: 1080}, warnings: {}, webStorageEnabled: false}
+Session ID: 0ec3f51e-76e7-44a0-8939-e72b18adf4a7
+*** Element info: {Using=accessibility id, value=Swipeeee}
+00:45:16 ERROR - src/test/screenshots/screen-1613601915857.png
+00:45:16 INFO  - Stop test testHorizontalSwipe
+************************************************
