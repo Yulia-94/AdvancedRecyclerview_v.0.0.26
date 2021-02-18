@@ -1,0 +1,8 @@
+21:04:44 INFO  - App is started
+21:04:44 INFO  - Start test testDragNDrop
+21:04:44 INFO  - Start find ---> By.xpath: //*[@resource-id='com.h6ah4i.android.example.advrecyclerview:id/button']
+21:04:44 INFO  - By.xpath: //*[@resource-id='com.h6ah4i.android.example.advrecyclerview:id/button'] <--- End of find
+21:04:44 INFO  - Start find ---> By.xpath: //*[@resource-id='com.h6ah4i.android.example.advrecyclerview:id/drag_handle']
+21:04:45 INFO  - By.xpath: //*[@resource-id='com.h6ah4i.android.example.advrecyclerview:id/drag_handle'] <--- End of find
+21:04:46 INFO  - Stop test testDragNDrop
+************************************************

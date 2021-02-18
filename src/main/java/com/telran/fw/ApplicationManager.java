@@ -26,14 +26,14 @@ public class ApplicationManager {
     public void start() throws IOException {
         capabilities = new DesiredCapabilities();
         capabilities.setCapability("platformName", "Android");
-        capabilities.setCapability("deviceName", "MyNex");
+        capabilities.setCapability("deviceName", "qa26");
         capabilities.setCapability("platformVersion", "8.0");
         capabilities.setCapability("appPackage", "com.h6ah4i.android.example.advrecyclerview");
 
 //        capabilities.setCapability("appActivity", ".launcher.MainActivity");
         capabilities.setCapability("automationName", "Appium");
         capabilities.setCapability("app",
-                "/Users/tayahatum/QAAppium/apk/AdvancedRecyclerView.apk");
+                "C:/Testing/AdvancedRecyclerView.apk");
 
 //            capabilities.setCapability("noReset","false");
 //            capabilities.setCapability("fullReset", "true");
